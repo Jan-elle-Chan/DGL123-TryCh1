@@ -21,5 +21,6 @@ $nutrition['protein'] = 7.3;
     <p>Sugar: <?php echo $nutrition['sugar']; ?>%</p>
     <p>Salt:  <?php echo $nutrition['salt']; ?>%</p>
     <p>Fiber: <?php echo $nutrition['fiber']; ?>%</p>
+    <p>Protein: <?php echo $nutrition['protein']; ?>%</p>
   </body>
 </html>
